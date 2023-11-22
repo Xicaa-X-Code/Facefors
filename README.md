@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/data/Screenshot_2023-11-22-15-09-22-61_84d3000e3f4017145260f7618db1d683.jpg?raw=true)
 
-# ~ 𝙃𝙖𝙨𝙞𝙡 𝘾𝙧𝙖𝙘𝙠 𝙋𝙪𝙗𝙡𝙞𝙠 ( 𝙛𝙖𝙘𝙚𝙛𝙤𝙧𝙨 )
+# ~ 𝘏𝘢𝘴𝘪𝘭 𝘊𝘳𝘢𝘤𝘬 𝘗𝘶𝘣𝘭𝘪𝘬 ( 𝘧𝘢𝘤𝘦𝘧𝘰𝘳𝘴 )
 
 ![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/OK/IMG_20231122_152830.jpg?raw=true)
 
