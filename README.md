@@ -6,11 +6,11 @@
 
 ![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/data/Screenshot_2023-11-25-23-11-49-15_84d3000e3f4017145260f7618db1d683.jpg?raw=true)
 
-# ~ Cek Detecktor OK
-
-[![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/OK/IMG_20231122_152830.jpg?raw=true)](https://github.com/Xicaa-X-Code/Facefors/blob/main/data/Screenshot_2023-11-25-23-10-44-77_84d3000e3f4017145260f7618db1d683.jpg)
-
-
 # ~ Cek Detecktor CP
+
+[![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/data/Screenshot_2023-11-25-23-10-44-77_84d3000e3f4017145260f7618db1d683.jpg)
+
+
+# ~ Cek Detecktor OK
 
 ![alt text](https://github.com/Xicaa-X-Code/Facefors/blob/main/data/Screenshot_2023-11-25-23-04-57-90_84d3000e3f4017145260f7618db1d683.jpg?raw=true)
